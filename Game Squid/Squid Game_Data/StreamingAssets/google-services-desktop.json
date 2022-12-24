@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417983751839",
+    "project_id": "thetan-rival",
+    "storage_bucket": "thetan-rival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417983751839:android:aaead366341d70f29864aa",
+        "android_client_info": {
+          "package_name": "com.wolffun.thetanrivals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417983751839-f0933v4k0uahu4a1i8s6guscka7fk9p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkZ0TBdI4MY5TY1wK9ZkcR8qF5Oym63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417983751839-f0933v4k0uahu4a1i8s6guscka7fk9p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

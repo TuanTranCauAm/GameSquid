@@ -1,0 +1,1667 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AccessTokenDataAsset" preserve="all" />
+    <type fullname="AccountSettingPanelManager" preserve="all" />
+    <type fullname="AddressableResourceCacheSO" preserve="all" />
+    <type fullname="AddressableResourceReleaseHandle" preserve="all" />
+    <type fullname="AdjustAnalytics" preserve="all" />
+    <type fullname="AdjustConfigInfo" preserve="all" />
+    <type fullname="AdminDataAsset" preserve="all" />
+    <type fullname="AnimationBombExplored" preserve="all" />
+    <type fullname="AnimationCosmeticConfig" preserve="all" />
+    <type fullname="AnimationLaser" preserve="all" />
+    <type fullname="AnimationOverride" preserve="all" />
+    <type fullname="AnimationPlayerDeath" preserve="all" />
+    <type fullname="AnimationRoundOver" preserve="all" />
+    <type fullname="AnimationSequencerTransition" preserve="all" />
+    <type fullname="AnimationWhenSpawnEntity" preserve="all" />
+    <type fullname="AOTPreserverer" preserve="all" />
+    <type fullname="AreaStepCheck" preserve="all" />
+    <type fullname="AssetRefCollecter" preserve="all" />
+    <type fullname="AudioListenerSingleton" preserve="all" />
+    <type fullname="AudioSourceGameEventSO" preserve="all" />
+    <type fullname="AutoGetCamera" preserve="all" />
+    <type fullname="AutoJoinRoom" preserve="all" />
+    <type fullname="AutoOpenBoxHomeMenu" preserve="all" />
+    <type fullname="AutoRotate" preserve="all" />
+    <type fullname="AutoStartLobby" preserve="all" />
+    <type fullname="BackblingCosmeticConfig" preserve="all" />
+    <type fullname="BackBlingCosmeticProvider" preserve="all" />
+    <type fullname="BannerMessageControl" preserve="all" />
+    <type fullname="BattleEndAnimation" preserve="all" />
+    <type fullname="BattleEndDataSO" preserve="all" />
+    <type fullname="BattleEndReward" preserve="all" />
+    <type fullname="BattleEndScreenBehaviour" preserve="all" />
+    <type fullname="BattleEndService" preserve="all" />
+    <type fullname="BattleNumConfigSO" preserve="all" />
+    <type fullname="BearAnimation" preserve="all" />
+    <type fullname="BearTileFallController" preserve="all" />
+    <type fullname="BetaTestNoticePopup" preserve="all" />
+    <type fullname="BombCountDownDisplay" preserve="all" />
+    <type fullname="BombDisplay" preserve="all" />
+    <type fullname="BombDisplayController" preserve="all" />
+    <type fullname="BombReference" preserve="all" />
+    <type fullname="BotSDKDebugger" preserve="all" />
+    <type fullname="BounceEffectOnCollision" preserve="all" />
+    <type fullname="BoxAnimationController" preserve="all" />
+    <type fullname="BoxInventoryDataAsset" preserve="all" />
+    <type fullname="BoxResourceConfigContainerAsset" preserve="all" />
+    <type fullname="BoxResourceConfigSO" preserve="all" />
+    <type fullname="BoxSprIconConfig" preserve="all" />
+    <type fullname="BulletProjectileDrawHandler" preserve="all" />
+    <type fullname="CameraFollower" preserve="all" />
+    <type fullname="CameraFollowerGreenRed" preserve="all" />
+    <type fullname="CameraIntroMap" preserve="all" />
+    <type fullname="CameraPath" preserve="all" />
+    <type fullname="CameraRotateControlMobile" preserve="all" />
+    <type fullname="CameraRotateControlMobileTutorial" preserve="all" />
+    <type fullname="CameraShakeManager" preserve="all" />
+    <type fullname="CameraTargetLocator" preserve="all" />
+    <type fullname="CamRotateTipControl" preserve="all" />
+    <type fullname="CancelWatchGameAsset" preserve="all" />
+    <type fullname="CancelWatchGameButton" preserve="all" />
+    <type fullname="CanvasGroupForAnim" preserve="all" />
+    <type fullname="CharacterAnimationController" preserve="all" />
+    <type fullname="CharacterAnimatorControllerWithFatality" preserve="all" />
+    <type fullname="CharacterBattleEnd" preserve="all" />
+    <type fullname="CharacterDeathEffect" preserve="all" />
+    <type fullname="CharacterGroundCheck" preserve="all" />
+    <type fullname="CharacterMovement" preserve="all" />
+    <type fullname="CharacterPointing" preserve="all" />
+    <type fullname="CharacterStartGame" preserve="all" />
+    <type fullname="CharacterStartGameAnimation" preserve="all" />
+    <type fullname="Cinemachine.CinemachineColliderPullFoward" preserve="all" />
+    <type fullname="Cinemachine.ImpulseListenerAtTarget" preserve="all" />
+    <type fullname="ClickableEffect" preserve="all" />
+    <type fullname="ClientLobbyCharacter" preserve="all" />
+    <type fullname="com.adjust.sdk.Adjust" preserve="all" />
+    <type fullname="CommonLeaderboardItemView" preserve="all" />
+    <type fullname="CompleteTutorialChecker" preserve="all" />
+    <type fullname="CosmeticAddinsOpenRewardItem" preserve="all" />
+    <type fullname="CosmeticCardView" preserve="all" />
+    <type fullname="CosmeticConfigAsset" preserve="all" />
+    <type fullname="CosmeticDataAsset" preserve="all" />
+    <type fullname="CosmeticDetailModelSpawner" preserve="all" />
+    <type fullname="CosmeticDetailScreen" preserve="all" />
+    <type fullname="CosmeticGridAdapter" preserve="all" />
+    <type fullname="CosmeticItemView" preserve="all" />
+    <type fullname="CosmeticProfileConfigAsset" preserve="all" />
+    <type fullname="CosmeticProfileItemResource" preserve="all" />
+    <type fullname="CosmeticProfileOpenRewardItem" preserve="all" />
+    <type fullname="CosmeticProfileTypeImgApplier" preserve="all" />
+    <type fullname="CosmeticProfileTypeImgConfig" preserve="all" />
+    <type fullname="CosmeticProfileUserDataAsset" preserve="all" />
+    <type fullname="CosmeticRarityColorConfig" preserve="all" />
+    <type fullname="CosmeticRarityGraphicColor" preserve="all" />
+    <type fullname="CosmeticRaritySpriteApplier" preserve="all" />
+    <type fullname="CosmeticRaritySpriteConfigSO" preserve="all" />
+    <type fullname="CosmeticRarityTextApplier" preserve="all" />
+    <type fullname="CosmeticTypeImageApplier" preserve="all" />
+    <type fullname="CosmeticTypeImgConfig" preserve="all" />
+    <type fullname="CosmeticUsingDataSO" preserve="all" />
+    <type fullname="CounDownScript" preserve="all" />
+    <type fullname="CountEliminatedPerRedLight" preserve="all" />
+    <type fullname="CountTimeDragCam" preserve="all" />
+    <type fullname="CurrencyIconSprConfig" preserve="all" />
+    <type fullname="CurrencyItemDataAsset" preserve="all" />
+    <type fullname="CurrencyOpenRewardItem" preserve="all" />
+    <type fullname="CurrencyTextUI" preserve="all" />
+    <type fullname="CustomCallbacks" preserve="all" />
+    <type fullname="CustomGravity" preserve="all" />
+    <type fullname="DanceAnimationCosmeticProvider" preserve="all" />
+    <type fullname="DanceAnimationCosmeticProviderAtHome" preserve="all" />
+    <type fullname="DeathEffectByHeight" preserve="all" />
+    <type fullname="DetailBackblingCosmeticProvider" preserve="all" />
+    <type fullname="DetailFootPrintProvider" preserve="all" />
+    <type fullname="DetectIngamePhotonDisconnect" preserve="all" />
+    <type fullname="DeviceDataAsset" preserve="all" />
+    <type fullname="DialogPopup" preserve="all" />
+    <type fullname="DisableWhenDeath" preserve="all" />
+    <type fullname="DisableWhenEliminated" preserve="all" />
+    <type fullname="DisableWhenGameOver" preserve="all" />
+    <type fullname="DisableWhenQualified" preserve="all" />
+    <type fullname="DisplayPlayerName" preserve="all" />
+    <type fullname="DontDestroyOnLoadObject" preserve="all" />
+    <type fullname="DownloadGameBundleAtTutorial" preserve="all" />
+    <type fullname="EnableBaseOnPlatform" preserve="all" />
+    <type fullname="EnableInFirstPhaseTutorial" preserve="all" />
+    <type fullname="EquipCosmeticContainer" preserve="all" />
+    <type fullname="EquipCosmeticScreen" preserve="all" />
+    <type fullname="EventSystemSingleton" preserve="all" />
+    <type fullname="EvolveMinionButtonControl" preserve="all" />
+    <type fullname="FakeFindMatchPlayerCount" preserve="all" />
+    <type fullname="FallOffCameraController" preserve="all" />
+    <type fullname="FallSFXBattleEnd" preserve="all" />
+    <type fullname="FindMatchController" preserve="all" />
+    <type fullname="FindMatchService" preserve="all" />
+    <type fullname="FirebaseInitiator" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Clients.ClientInstance" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Clients.PlayerSettings" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Demos.KingOfTheHill.SimulatePhysics" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Lobbies.GameSceneConfigurations" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Lobbies.LobbyNetworkSpawner" preserve="all" />
+    <type fullname="FishNet.Component.Utility.FPSCounter" preserve="all" />
+    <type fullname="FisrtMatchOnly" preserve="all" />
+    <type fullname="FlagpoleDisplay" preserve="all" />
+    <type fullname="FlyCraftCosmeticConfig" preserve="all" />
+    <type fullname="FlyCraftCosmeticProvider" preserve="all" />
+    <type fullname="FlyCraftCosmeticProviderAtHome" preserve="all" />
+    <type fullname="FollowGameObject" preserve="all" />
+    <type fullname="FootPrintCosmeticProvider" preserve="all" />
+    <type fullname="FrameAnimControl" preserve="all" />
+    <type fullname="FXCosmeticConfig" preserve="all" />
+    <type fullname="GameConfigs" preserve="all" />
+    <type fullname="GameEventBoolSO" preserve="all" />
+    <type fullname="GameEventBoolSOListener" preserve="all" />
+    <type fullname="GameEventChangeCosmeticListener" preserve="all" />
+    <type fullname="GameEventChangeCosmeticSO" preserve="all" />
+    <type fullname="GameEventChangeMinionData" preserve="all" />
+    <type fullname="GameEventCosmeticDataItem" preserve="all" />
+    <type fullname="GameEventCosmeticDataItemSOListener" preserve="all" />
+    <type fullname="GameEventFloatSO" preserve="all" />
+    <type fullname="GameEventMinionListener" preserve="all" />
+    <type fullname="GameEventMinionSO" preserve="all" />
+    <type fullname="GameEventVoidSO" preserve="all" />
+    <type fullname="GameEventVoidSOListener" preserve="all" />
+    <type fullname="GameFeatures.Common.MinionData.MinionDataAsset" preserve="all" />
+    <type fullname="GameFeatures.Loading.Preloading.DownloadThetanRivalsAssets" preserve="all" />
+    <type fullname="GameFeatures.TutorialFeature.LobbyTutorialManager" preserve="all" />
+    <type fullname="GameFeatures.TutorialFeature.Scripts.Data.LobbyTutorialConfig" preserve="all" />
+    <type fullname="GameFeatures.UserProfile.AvatarGridAdapter" preserve="all" />
+    <type fullname="GameFeatures.UserProfile.AvatarItemView" preserve="all" />
+    <type fullname="GameGoalDisplay" preserve="all" />
+    <type fullname="GameObjectPoolDestroyHandle" preserve="all" />
+    <type fullname="GameObjectPoolSO" preserve="all" />
+    <type fullname="GameOverHandler" preserve="all" />
+    <type fullname="GameStateObserver" preserve="all" />
+    <type fullname="GameTimeTracker" preserve="all" />
+    <type fullname="GhostModelController" preserve="all" />
+    <type fullname="GlowCosmeticProvider" preserve="all" />
+    <type fullname="GLRL_UIQualifiedTracker" preserve="all" />
+    <type fullname="GraphicsManager" preserve="all" />
+    <type fullname="GreenLightRedLight_LightController" preserve="all" />
+    <type fullname="GreenLightRedLightPCInputTracker" preserve="all" />
+    <type fullname="GreenLightRedLightRoundOverAnalytic" preserve="all" />
+    <type fullname="GUIButtonPress" preserve="all" />
+    <type fullname="HandleApplicationPause" preserve="all" />
+    <type fullname="HandleApplicationQuit" preserve="all" />
+    <type fullname="HeroRarityColorConfig" preserve="all" />
+    <type fullname="HeroRarityGraphicColorSelector" preserve="all" />
+    <type fullname="HeroRarityImgSelector" preserve="all" />
+    <type fullname="HeroRaritySprConfig" preserve="all" />
+    <type fullname="HomeAnimationSequenceStateControl" preserve="all" />
+    <type fullname="HomeAnimationState" preserve="all" />
+    <type fullname="HomeCharacterBehavior" preserve="all" />
+    <type fullname="HomeCosmeticContainer" preserve="all" />
+    <type fullname="HomeMenuPopup" preserve="all" />
+    <type fullname="HomeMenuSpawnerChecker" preserve="all" />
+    <type fullname="HomeSceneController" preserve="all" />
+    <type fullname="HomeTrophySetup" preserve="all" />
+    <type fullname="HomeViewEvent" preserve="all" />
+    <type fullname="HotPotato_UIEliminatedCount" preserve="all" />
+    <type fullname="HotPotatoOnCharacterSFXListener" preserve="all" />
+    <type fullname="HotPotatoRoundOverAnalytic" preserve="all" />
+    <type fullname="ImpulseCameraOnCollision" preserve="all" />
+    <type fullname="ImpulseCameraOnEnable" preserve="all" />
+    <type fullname="ImpulseEventSO" preserve="all" />
+    <type fullname="ImpulseWithSourceEventSO" preserve="all" />
+    <type fullname="IngameAudioResquest" preserve="all" />
+    <type fullname="IngameCosmeticData" preserve="all" />
+    <type fullname="IngameDanceInputControl" preserve="all" />
+    <type fullname="IngameFootprintCosmeticControl" preserve="all" />
+    <type fullname="IngameFootPrintCosmeticProvider" preserve="all" />
+    <type fullname="IngameGlowCosmeticControl" preserve="all" />
+    <type fullname="IngameMessageConfig" preserve="all" />
+    <type fullname="InGameMessageGameEventListener" preserve="all" />
+    <type fullname="InGameMessageGameEventSO" preserve="all" />
+    <type fullname="IngameResourceManager" preserve="all" />
+    <type fullname="IngameSkinControl" preserve="all" />
+    <type fullname="InGameTutorialStepControl" preserve="all" />
+    <type fullname="InputFieldTMPHidePlaceHolder" preserve="all" />
+    <type fullname="InventoryConfigAsset" preserve="all" />
+    <type fullname="InventoryDataAsset" preserve="all" />
+    <type fullname="JoystickMove" preserve="all" />
+    <type fullname="JumpBtnSwitchGameView" preserve="all" />
+    <type fullname="LaserDanceEliminatedCount" preserve="all" />
+    <type fullname="LaserDanceGameStateOb" preserve="all" />
+    <type fullname="LaserDanceRoundOverAnalytic" preserve="all" />
+    <type fullname="LaserDanceTime" preserve="all" />
+    <type fullname="LeaderboardConfig" preserve="all" />
+    <type fullname="LeaderboardScreen" preserve="all" />
+    <type fullname="LightController" preserve="all" />
+    <type fullname="ListChooseCosmeticType" preserve="all" />
+    <type fullname="ListGameObjectAsset" preserve="all" />
+    <type fullname="ListMaterialAsset" preserve="all" />
+    <type fullname="LoadingBattleEndToHome" preserve="all" />
+    <type fullname="LoadingDataController" preserve="all" />
+    <type fullname="LoadingDataTriggerController" preserve="all" />
+    <type fullname="LoadingFastReconnect" preserve="all" />
+    <type fullname="LoadingGameAnimController" preserve="all" />
+    <type fullname="LoadingGameSceneController" preserve="all" />
+    <type fullname="LoadingGameSceneTutorialController" preserve="all" />
+    <type fullname="LoadingGameUIController" preserve="all" />
+    <type fullname="LoadingProgressObject" preserve="all" />
+    <type fullname="LoadingScene" preserve="all" />
+    <type fullname="LoadingStartToHomeController" preserve="all" />
+    <type fullname="LoadingStartToLoginController" preserve="all" />
+    <type fullname="LoadingToFirstBattle" preserve="all" />
+    <type fullname="LoadingToTutorial" preserve="all" />
+    <type fullname="LobbyAnalytics" preserve="all" />
+    <type fullname="LobbyAuthenticator" preserve="all" />
+    <type fullname="LobbyCameraAnimation" preserve="all" />
+    <type fullname="LobbyCameraRotateControlMobile" preserve="all" />
+    <type fullname="LobbyCamTargetLocalPlayer" preserve="all" />
+    <type fullname="LobbyCharacterAnimation" preserve="all" />
+    <type fullname="LobbyCharacterCosmeticData" preserve="all" />
+    <type fullname="LobbyCharacterDanceBehavior" preserve="all" />
+    <type fullname="LobbyCharacterFlyUpHandle" preserve="all" />
+    <type fullname="LobbyCharacterJoinLeaveBehaviour" preserve="all" />
+    <type fullname="LobbyCharacterSkinControl" preserve="all" />
+    <type fullname="LobbyCharacterState" preserve="all" />
+    <type fullname="LobbyCharacterUI" preserve="all" />
+    <type fullname="LobbyDanceChecker" preserve="all" />
+    <type fullname="LobbyDataAsset" preserve="all" />
+    <type fullname="LobbyMatchFoundCamera" preserve="all" />
+    <type fullname="LobbyMatchFoundClound" preserve="all" />
+    <type fullname="LobbyMobileControlCanvas" preserve="all" />
+    <type fullname="LobbyPoolerDespawnHandle" preserve="all" />
+    <type fullname="LobbyThenionChangeInteraction" preserve="all" />
+    <type fullname="LobbyUserInfo" preserve="all" />
+    <type fullname="LocalInput" preserve="all" />
+    <type fullname="LocalizeStringEventAutoCallback" preserve="all" />
+    <type fullname="LockCameraEventHandle" preserve="all" />
+    <type fullname="LoginSceneController" preserve="all" />
+    <type fullname="LoginScreenManagerThetan" preserve="all" />
+    <type fullname="MatchCountDownDisplay" preserve="all" />
+    <type fullname="MatchFoundDataAsset" preserve="all" />
+    <type fullname="MenuGlowCosmeticProvider" preserve="all" />
+    <type fullname="MenuHomeSkinControl" preserve="all" />
+    <type fullname="MenuPreviewGlowCosmeticProvider" preserve="all" />
+    <type fullname="MiniBearComp" preserve="all" />
+    <type fullname="MinionConfigDataLoader" preserve="all" />
+    <type fullname="MinionDataUsingLoader" preserve="all" />
+    <type fullname="MinionDetailScreen" preserve="all" />
+    <type fullname="MinionLeaderboardListAdapter" preserve="all" />
+    <type fullname="MinionOpenRewardItem" preserve="all" />
+    <type fullname="MinionSkinAvatarShow" preserve="all" />
+    <type fullname="MinionUIInstantiator" preserve="all" />
+    <type fullname="MobileControlCanvas" preserve="all" />
+    <type fullname="MobileFirstMatchCanvas" preserve="all" />
+    <type fullname="ModelSpawner" preserve="all" />
+    <type fullname="ModelsSpawnerController" preserve="all" />
+    <type fullname="MoveToRootParentOnStart" preserve="all" />
+    <type fullname="NetworkAvailabilityHandler" preserve="all" />
+    <type fullname="NetworkHudCanvases" preserve="all" />
+    <type fullname="NewAdminManager" preserve="all" />
+    <type fullname="NGSS_Directional" preserve="all" />
+    <type fullname="NormalBoxOpenRewardItem" preserve="all" />
+    <type fullname="ObstacleRacingRoundOverAnalytic" preserve="all" />
+    <type fullname="OnChangeGameStateTutorial" preserve="all" />
+    <type fullname="OnCharacterSFXListener" preserve="all" />
+    <type fullname="OnEnableSetObjectBaseOnPlatform" preserve="all" />
+    <type fullname="OnPlayerWinListener" preserve="all" />
+    <type fullname="OnPositionSpawnEventHandle" preserve="all" />
+    <type fullname="OnStartCompleteTutorial" preserve="all" />
+    <type fullname="OpenRewardScreen" preserve="all" />
+    <type fullname="OR_UICountNumberQualified" preserve="all" />
+    <type fullname="OR_UIGameTimeTracker" preserve="all" />
+    <type fullname="ParticleSystemPool" preserve="all" />
+    <type fullname="ParticleSystemPoolItemAutoRelease" preserve="all" />
+    <type fullname="PartyService" preserve="all" />
+    <type fullname="PassStepConditionSender" preserve="all" />
+    <type fullname="PauseBGMGameEventSO" preserve="all" />
+    <type fullname="PauseBGMGameEventSOListener" preserve="all" />
+    <type fullname="PCInputTracker" preserve="all" />
+    <type fullname="PCInputTrackerTutorial" preserve="all" />
+    <type fullname="PCLockCursor" preserve="all" />
+    <type fullname="PhotonClient" preserve="all" />
+    <type fullname="PhotonManager" preserve="all" />
+    <type fullname="PlayBGMGameEventSO" preserve="all" />
+    <type fullname="PlayBGMGameEventSOListener" preserve="all" />
+    <type fullname="PlayerCreationNotifier" preserve="all" />
+    <type fullname="PlayerDataAsset" preserve="all" />
+    <type fullname="PlayerEarAudioRequest" preserve="all" />
+    <type fullname="PlayerEntityView" preserve="all" />
+    <type fullname="PopToHome" preserve="all" />
+    <type fullname="PopupConfirmEvolveMinion" preserve="all" />
+    <type fullname="PostProcessingSetUp" preserve="all" />
+    <type fullname="PredictionCullingFollowCharacter" preserve="all" />
+    <type fullname="PreloadingSceneController" preserve="all" />
+    <type fullname="PreviewCosmeticAddInType" preserve="all" />
+    <type fullname="PreviewFlyCraftCosmeticProvider" preserve="all" />
+    <type fullname="PreviewFootprintController" preserve="all" />
+    <type fullname="PreviewFootprintCosmeticProvider" preserve="all" />
+    <type fullname="PreviewSelectBackblingController" preserve="all" />
+    <type fullname="PreviewSelectDanceCosmeticControl" preserve="all" />
+    <type fullname="PreviewSelectFlyCosmetic" preserve="all" />
+    <type fullname="ProgressBarAnimation" preserve="all" />
+    <type fullname="ProgressBarUpdate" preserve="all" />
+    <type fullname="PULoginAccount" preserve="all" />
+    <type fullname="PUPlayAsGuest" preserve="all" />
+    <type fullname="PURating" preserve="all" />
+    <type fullname="PURegisterAccount" preserve="all" />
+    <type fullname="PURegisterAccountSetting" preserve="all" />
+    <type fullname="QTCommandGameOver" preserve="all" />
+    <type fullname="QTCommandSetActiveJumpSlideSystem" preserve="all" />
+    <type fullname="QTCommandSkipTimeStart" preserve="all" />
+    <type fullname="QTCommandWinInstancely" preserve="all" />
+    <type fullname="QuantumGameUpdater" preserve="all" />
+    <type fullname="RagdollHandleComp" preserve="all" />
+    <type fullname="RagdollRecoveryComp" preserve="all" />
+    <type fullname="RandomMeshWhenSpawned" preserve="all" />
+    <type fullname="RankingRewardBoxBGConfig" preserve="all" />
+    <type fullname="RankingRewardCosmeticAddInItemTypeSprConfig" preserve="all" />
+    <type fullname="RankingRewardCosmeticBGConfig" preserve="all" />
+    <type fullname="RankingRewardCurrencyBGConfig" preserve="all" />
+    <type fullname="RankingRewardDataAsset" preserve="all" />
+    <type fullname="RankingRewardHeroBGConfig" preserve="all" />
+    <type fullname="RankingRewardItemListAdapter" preserve="all" />
+    <type fullname="RankingRewardItemView" preserve="all" />
+    <type fullname="RankingRewardScreen" preserve="all" />
+    <type fullname="RarelyUsedDataAsset" preserve="all" />
+    <type fullname="RarityTextColorSelector" preserve="all" />
+    <type fullname="RawImageAutoSize" preserve="all" />
+    <type fullname="ReconnectInfo" preserve="all" />
+    <type fullname="RectTransformForAnim" preserve="all" />
+    <type fullname="RemoteDataAsset" preserve="all" />
+    <type fullname="ResetReturnHomeFromBattleEnd" preserve="all" />
+    <type fullname="ReviewInvitationController" preserve="all" />
+    <type fullname="ReviewInvitationDataAsset" preserve="all" />
+    <type fullname="RobotScript" preserve="all" />
+    <type fullname="RoundOverData" preserve="all" />
+    <type fullname="ScaleBG" preserve="all" />
+    <type fullname="SectionPassObstacleRacingAnalytic" preserve="all" />
+    <type fullname="SetScreenUI" preserve="all" />
+    <type fullname="SettingDataAsset" preserve="all" />
+    <type fullname="SettingScreen" preserve="all" />
+    <type fullname="SettingScreenBtns" preserve="all" />
+    <type fullname="SFXSoundTrigger" preserve="all" />
+    <type fullname="ShowObjWhenGameStartPlaying" preserve="all" />
+    <type fullname="SidePanelController" preserve="all" />
+    <type fullname="SimpleAOICanvasGroup" preserve="all" />
+    <type fullname="SingleTypeCosmeticData" preserve="all" />
+    <type fullname="SkinConfig" preserve="all" />
+    <type fullname="SkinRarityImgSelector" preserve="all" />
+    <type fullname="SkinRaritySprConfig" preserve="all" />
+    <type fullname="SkinRarityTextColorConfig" preserve="all" />
+    <type fullname="SlashEffectComp" preserve="all" />
+    <type fullname="SoundGameEventSO" preserve="all" />
+    <type fullname="SoundGameEventSOListener" preserve="all" />
+    <type fullname="SoundItemConfig" preserve="all" />
+    <type fullname="SoundManager" preserve="all" />
+    <type fullname="SoundSettingPanelController" preserve="all" />
+    <type fullname="SoundVolumeChanger" preserve="all" />
+    <type fullname="SoundWithSeparateSourceGameEventListener" preserve="all" />
+    <type fullname="SoundWithSourceGameEventListener" preserve="all" />
+    <type fullname="SoundWithSourceGameEventSO" preserve="all" />
+    <type fullname="SoundWithSourceLoopGameEventListener" preserve="all" />
+    <type fullname="SpawnPool" preserve="all" />
+    <type fullname="StarDisplay" preserve="all" />
+    <type fullname="StartGameTimer" preserve="all" />
+    <type fullname="StopBGMGameEventSO" preserve="all" />
+    <type fullname="StopBGMGameEventSOListener" preserve="all" />
+    <type fullname="StressTestConfigTugBoat" preserve="all" />
+    <type fullname="SystemRewardProcessor" preserve="all" />
+    <type fullname="TeamIdentifyDisplay" preserve="all" />
+    <type fullname="TeamPointDisplay" preserve="all" />
+    <type fullname="ThetanAnalyticAsset" preserve="all" />
+    <type fullname="ThetanAnalyticCachePC" preserve="all" />
+    <type fullname="ThetanRivalsService" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Common.UI.GlobalContainerLayerManager" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.HomeMenu.HomeMenuScreen" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Minion.Grids.MinionGridAdapter" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Minion.MinionItemView" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Minion.MinionScreen" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Minion.ThreeDUIObjectViewer" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Profile.ChangeNameProfile" preserve="all" />
+    <type fullname="ThetanRoyale.Runtime.Features.Profile.UserProfileScreen" preserve="all" />
+    <type fullname="TileFallRoundOverAnalytic" preserve="all" />
+    <type fullname="TileObserver" preserve="all" />
+    <type fullname="TimeController" preserve="all" />
+    <type fullname="ToastPopupAnimation" preserve="all" />
+    <type fullname="ToastShowAnimation" preserve="all" />
+    <type fullname="ToggleFadeCanvasGroup" preserve="all" />
+    <type fullname="TooltipMessageControl" preserve="all" />
+    <type fullname="TrailSlider" preserve="all" />
+    <type fullname="TrophyBarProgress" preserve="all" />
+    <type fullname="TrophyLeaderboardListAdapter" preserve="all" />
+    <type fullname="TrophySpriteConfig" preserve="all" />
+    <type fullname="Tutorial_UIGameTimeTracker" preserve="all" />
+    <type fullname="TutorialBattleAnalytic" preserve="all" />
+    <type fullname="TutorialDataAsset" preserve="all" />
+    <type fullname="TutorialGLRLAnalytic" preserve="all" />
+    <type fullname="TutorialLightAnnouce" preserve="all" />
+    <type fullname="TutorialPassStepCondition" preserve="all" />
+    <type fullname="TutorialPassStepConditionGameEventSO" preserve="all" />
+    <type fullname="TutorialRoundAnalytic" preserve="all" />
+    <type fullname="TutorialTileFallAnalytic" preserve="all" />
+    <type fullname="UIBillboard" preserve="all" />
+    <type fullname="UIIntroduceMap" preserve="all" />
+    <type fullname="UIResultConfig" preserve="all" />
+    <type fullname="UpdateWinnerInfomation" preserve="all" />
+    <type fullname="UserRankingRewardDataAsset" preserve="all" />
+    <type fullname="VisibleEffectOnCamTarget" preserve="all" />
+    <type fullname="WebSocketAvailabilityHandler" preserve="all" />
+    <type fullname="WinnerChickenDinnerAnimation" preserve="all" />
+    <type fullname="Wolffun.Internal.WolffunUnityHttp" preserve="all" />
+    <type fullname="Wolffun.LobbyAndWorld.Lobbies.LobbyPlayerSpawner" preserve="all" />
+    <type fullname="Wolffun.WebSocket.MultipleDeviceLoginHandler" preserve="all" />
+    <type fullname="Wolffun.WebSocket.WebSocketInitializer" preserve="all" />
+    <type fullname="Wolffun.WolffunSetting" preserve="all" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[CurrencyType,UnityEngine.AddressableAssets.AssetReferenceSprite,CurrencyType,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[GameMode,GameConfigs/GameModeConfig,GameMode,GameConfigs/GameModeConfig]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[System.Int32,GameConfigs/MapConfig,System.Int32,GameConfigs/MapConfig]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[CurrencyType,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[GameMode,GameConfigs/GameModeConfig]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[System.Int32,GameConfigs/MapConfig]" preserve="nothing" serialized="true" />
+    <type fullname="EvolveMinionConfig" preserve="nothing" serialized="true" />
+    <type fullname="EvolveMinionRarityConfig" preserve="nothing" serialized="true" />
+    <type fullname="GameConfigs/GameModeConfig" preserve="nothing" serialized="true" />
+    <type fullname="GameConfigs/MapConfig" preserve="nothing" serialized="true" />
+    <type fullname="GameFeatures.Common.MinionData.SkinRarity" preserve="nothing" serialized="true" />
+    <type fullname="MoveObjecFromtToAnotherObject" preserve="nothing" serialized="true" />
+    <type fullname="MoveObjectToAnotherObject" preserve="nothing" serialized="true" />
+    <type fullname="NewAdminManager/FakeConfigGame" preserve="nothing" serialized="true" />
+    <type fullname="ScaleFromToAnotherObjectSize" preserve="nothing" serialized="true" />
+    <type fullname="ScaleToAnotherObjectSize" preserve="nothing" serialized="true" />
+    <type fullname="SoundEvent" preserve="nothing" serialized="true" />
+    <type fullname="SoundWithSourceEvent" preserve="nothing" serialized="true" />
+    <type fullname="ThetanAnalyticCachePCModel" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaDataAPI.CosmeticProfileInfo" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaDataAPI.CosmeticProfileType" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaRemoteAPI.ServerCustomCode" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaRemoteAPI.ServerCustomInfo" preserve="nothing" serialized="true" />
+    <type fullname="com.adjust.sdk.AdjustEnvironment" preserve="nothing" serialized="true" />
+    <type fullname="com.adjust.sdk.AdjustLogLevel" preserve="nothing" serialized="true" />
+    <type fullname="com.adjust.sdk.AdjustUrlStrategy" preserve="nothing" serialized="true" />
+    <type fullname="AdminDataModel" preserve="nothing" serialized="true" />
+    <type fullname="BattleEndRewardModel" preserve="nothing" serialized="true" />
+    <type fullname="BattleStatistics" preserve="nothing" serialized="true" />
+    <type fullname="CloudRegionCode" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticConfigAsset/CosmeticTypeLevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticData" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticProfileUserDataModel" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticUnityConfigs" preserve="nothing" serialized="true" />
+    <type fullname="DeviceDataModel" preserve="nothing" serialized="true" />
+    <type fullname="GameFeatures.Common.MinionData.MinionDataModel" preserve="nothing" serialized="true" />
+    <type fullname="GameFeatures.Common.MinionData.UserListMinionServerData" preserve="nothing" serialized="true" />
+    <type fullname="InventoryItemData" preserve="nothing" serialized="true" />
+    <type fullname="InventoryItemType" preserve="nothing" serialized="true" />
+    <type fullname="InventoryServerData" preserve="nothing" serialized="true" />
+    <type fullname="InventoryVersionConfig" preserve="nothing" serialized="true" />
+    <type fullname="LobbyDataModel" preserve="nothing" serialized="true" />
+    <type fullname="LobbyDataModel/LobbySourceInType" preserve="nothing" serialized="true" />
+    <type fullname="LobbyDataModel/LobbySourceOutType" preserve="nothing" serialized="true" />
+    <type fullname="LocalAndServerDataModel`2[MainPlayerLocalDataModel,MainPlayerProfile]" preserve="nothing" serialized="true" />
+    <type fullname="LocalAndServerDataModel`2[TutorialDataModel,TutorialServerDataModel]" preserve="nothing" serialized="true" />
+    <type fullname="MainPlayerLocalDataModel" preserve="nothing" serialized="true" />
+    <type fullname="MainPlayerProfile" preserve="nothing" serialized="true" />
+    <type fullname="MatchFoundDataModel" preserve="nothing" serialized="true" />
+    <type fullname="MinionServerConfigResponse" preserve="nothing" serialized="true" />
+    <type fullname="RarelyUsedDataModel" preserve="nothing" serialized="true" />
+    <type fullname="ReviewInvitationDataModel" preserve="nothing" serialized="true" />
+    <type fullname="SettingDataModel" preserve="nothing" serialized="true" />
+    <type fullname="SkinInfo" preserve="nothing" serialized="true" />
+    <type fullname="TutorialDataModel" preserve="nothing" serialized="true" />
+    <type fullname="TutorialDataModel/TutorialStep" preserve="nothing" serialized="true" />
+    <type fullname="TutorialServerDataModel" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaAuthAPI.TokenResponseModel" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaDataAPI.CosmeticProfileConfig" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaDataAPI.RankingRewardConfigsResponseModel" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaDataAPI.UserRankingRewardDataModel" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaRemoteAPI.PauseAppConfig" preserve="nothing" serialized="true" />
+    <type fullname="Wolffun.ThetaRemoteAPI.RemoteDataResponse" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[DialogPopup/DialogButtonType,UnityEngine.Sprite,DialogPopup/DialogButtonType,UnityEngine.Sprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[DialogPopup/DialogButtonType,UnityEngine.Sprite]" preserve="nothing" serialized="true" />
+    <type fullname="DialogPopup/DialogButtonType" preserve="nothing" serialized="true" />
+    <type fullname="TransformEvent" preserve="nothing" serialized="true" />
+    <type fullname="AutoRotate/RotateAxis" preserve="nothing" serialized="true" />
+    <type fullname="ConditionalWrapperAnimationSequence" preserve="nothing" serialized="true" />
+    <type fullname="SoundConfigWithSource" preserve="nothing" serialized="true" />
+    <type fullname="SwitchWrapperAnimationSequence" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[CosmeticAddInType,UnityEngine.AddressableAssets.AssetReferenceSprite,CosmeticAddInType,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[CosmeticRarity,UnityEngine.AddressableAssets.AssetReferenceSprite,CosmeticRarity,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2/ItemElem`2[GameFeatures.Common.MinionData.HeroRarity,UnityEngine.AddressableAssets.AssetReferenceSprite,GameFeatures.Common.MinionData.HeroRarity,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[CosmeticAddInType,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[CosmeticRarity,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="CustomListToDictionary`2[GameFeatures.Common.MinionData.HeroRarity,UnityEngine.AddressableAssets.AssetReferenceSprite]" preserve="nothing" serialized="true" />
+    <type fullname="GameFeatures.Common.MinionData.HeroRarity" preserve="nothing" serialized="true" />
+    <type fullname="FadeCanvasGroupDOTweenActionPropertyControl" preserve="nothing" serialized="true" />
+    <type fullname="HomeAnimationState/HomeStateConditionChange" preserve="nothing" serialized="true" />
+    <type fullname="LobbyState" preserve="nothing" serialized="true" />
+    <type fullname="HeroRaritySprConfig/HeroRarityImgSelectorConfig" preserve="nothing" serialized="true" />
+    <type fullname="HeroRarityColorConfig/HeroRarityColorSelectorConfig" preserve="nothing" serialized="true" />
+    <type fullname="SkinRaritySprConfig/SkinRarityImgSelectorConfig" preserve="nothing" serialized="true" />
+    <type fullname="SkinRarityTextColorConfig/SkinRarityTextColorSelectorConfig" preserve="nothing" serialized="true" />
+    <type fullname="LocalInput/InputConfig" preserve="nothing" serialized="true" />
+    <type fullname="CameraImpulseConfig" preserve="nothing" serialized="true" />
+    <type fullname="ImpulseWithSourceConfig" preserve="nothing" serialized="true" />
+    <type fullname="CharacterStateDataEvent" preserve="nothing" serialized="true" />
+    <type fullname="CharacterStateEvent" preserve="nothing" serialized="true" />
+    <type fullname="CharacterStateFlag" preserve="nothing" serialized="true" />
+    <type fullname="FloatEvent" preserve="nothing" serialized="true" />
+    <type fullname="PositionEvent" preserve="nothing" serialized="true" />
+    <type fullname="BearTFChangeStateDelay" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticDetailModelSpawner/CosmeticDetailModelConfig" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticProfileTypeImgConfig/CosmeticProfileTypeImg" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticRarityColorConfig/CosmeticRarityColorConfigModel" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticRaritySpriteConfigSO/CosmeticRaritySpriteConfig" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticTypeImgConfig/CosmeticTypeImageConfig" preserve="nothing" serialized="true" />
+    <type fullname="BoxType" preserve="nothing" serialized="true" />
+    <type fullname="CardCosmeticProfileItemUI" preserve="nothing" serialized="true" />
+    <type fullname="CosmeticAnimationControllerConfig" preserve="nothing" serialized="true" />
+    <type fullname="ItemOpenRewardTypeConfig" preserve="nothing" serialized="true" />
+    <type fullname="ParticleBoxType" preserve="nothing" serialized="true" />
+    <type fullname="SetSizeRectTranform" preserve="nothing" serialized="true" />
+    <type fullname="IngameTutorialStep" preserve="nothing" serialized="true" />
+    <type fullname="FrameAnimControl/EntityAnimFrame" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BrainFailProductions.PolyFew.PolyFew" preserve="all" />
+    <type fullname="FIMSpace.FTail.TailAnimator2" preserve="all" />
+    <type fullname="BrainFailProductions.PolyFew.CombiningInformation/Resolution" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.CombiningInformation/TextureArrayGroup" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.CombiningInformation/TextureArrayUserSettings" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer/LODBackup" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer/LODLevelSettings" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer/MeshRendererPair" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer/ObjectMeshPair" preserve="nothing" serialized="true" />
+    <type fullname="BrainFailProductions.PolyFew.DataContainer/UndoRedoOps" preserve="nothing" serialized="true" />
+    <type fullname="FIMSpace.FTail.TailAnimator2/TailSegment" preserve="nothing" serialized="true" />
+    <type fullname="FIMSpace.FTools.FIK_CCDProcessor" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="BrunoMikoski.AnimationSequencer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BrunoMikoski.AnimationSequencer.AnimationSequencerController" preserve="all" />
+    <type fullname="BrunoMikoski.AnimationSequencer.AnchoredPositionMoveToPositionDOTweenActionBase" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.AnchoredPositionMoveToRectTransformPositionDOTweenActionBase" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.DOTweenAnimationStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.FadeCanvasGroupDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.FadeGraphicDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.MoveToTargetDOTweenActionBase" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.PlaySequenceAnimationStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.RotateToEulerAnglesRotateDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.ScaleDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.SetGameObjectActiveStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.InvokeCallbackAnimationStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.WaitForIntervalStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.RectTransformSizeDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.ColorGraphicDOTWeen" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.MoveToPositionDOTweenActionBase" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.ShakePositionDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.PlayParticleSystemAnimationStep" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBlenderSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineDollyCart" preserve="all" />
+    <type fullname="Cinemachine.CinemachineFramingTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineFreeLook" preserve="all" />
+    <type fullname="Cinemachine.CinemachineHardLookAt" preserve="all" />
+    <type fullname="Cinemachine.CinemachineImpulseSource" preserve="all" />
+    <type fullname="Cinemachine.CinemachineOrbitalTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePOV" preserve="all" />
+    <type fullname="Cinemachine.CinemachineSmoothPath" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.AxisState" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.AxisState/Recentering" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachinePathBase/Appearance" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineSmoothPath/Waypoint" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineFreeLook/Orbit" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineImpulseDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineImpulseManager/EnvelopeDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineOrbitalTransposer/Heading" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="DataTypeWrapperSO, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BoolComp" preserve="all" />
+    <type fullname="EaseTypeComp" preserve="all" />
+    <type fullname="FloatComp" preserve="all" />
+    <type fullname="Vector2Comp" preserve="all" />
+    <type fullname="Vector3Comp" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTweenPro, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenVisualManager" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTweenPro.Scripts, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="E7.NotchSolution, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="E7.NotchSolution.SafePadding" preserve="all" />
+    <type fullname="E7.NotchSolution.PerEdgeEvaluationModes" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="FishNet.Example, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FishNet.Example.Prediction.CharacterControllers.CharacterControllerPrediction" preserve="all" />
+    <type fullname="FishNet.Example.Prediction.Rigidbodies.RigidbodyPrediction" preserve="all" />
+    <type fullname="FishNet.Example.Prediction.Transforms.TransformPrediction" preserve="all" />
+    <type fullname="FishNet.Example.Scened.PlayerController" preserve="all" />
+  </assembly>
+  <assembly fullname="FishNet.Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FishNet.Component.Prediction.PredictedObject" preserve="all" />
+    <type fullname="FishNet.Component.Spawning.PlayerSpawner" preserve="all" />
+    <type fullname="FishNet.Component.Transforming.NetworkTransform" preserve="all" />
+    <type fullname="FishNet.Component.Transforming.NetworkTransform/SnappedAxes" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="FishNet.Plugins.ColliderRollback.Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DestroyAfterDelay" preserve="all" />
+    <type fullname="FishNet.Component.ColliderRollback.Demo.Aim" preserve="all" />
+    <type fullname="FishNet.Component.ColliderRollback.Demo.Fire" preserve="all" />
+    <type fullname="FishNet.Component.ColliderRollback.Demo.PlayerMotor" preserve="all" />
+  </assembly>
+  <assembly fullname="FishNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FishNet.Component.Observing.SceneCondition" preserve="all" />
+    <type fullname="FishNet.Managing.NetworkManager" preserve="all" />
+    <type fullname="FishNet.Managing.Object.DefaultPrefabObjects" preserve="all" />
+    <type fullname="FishNet.Managing.Observing.ObserverManager" preserve="all" />
+    <type fullname="FishNet.Managing.Scened.SceneManager" preserve="all" />
+    <type fullname="FishNet.Managing.Server.ServerManager" preserve="all" />
+    <type fullname="FishNet.Managing.Timing.TimeManager" preserve="all" />
+    <type fullname="FishNet.Object.NetworkObject" preserve="all" />
+    <type fullname="FishNet.Observing.NetworkObserver" preserve="all" />
+    <type fullname="FishNet.Transporting.Tugboat.Tugboat" preserve="all" />
+    <type fullname="GameSystem.Core.AddressableSceneProcessor" preserve="all" />
+    <type fullname="FishNet.Object.TransformProperties" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Serializing.TransformPackingData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="PhotonQuantum, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AddressableGroupByType" preserve="all" />
+    <type fullname="AIBlackboardAsset" preserve="all" />
+    <type fullname="AIBlackboardInitializerAsset" preserve="all" />
+    <type fullname="AIConfigAsset" preserve="all" />
+    <type fullname="AnimationCurveParameterAsset" preserve="all" />
+    <type fullname="BinaryDataAsset" preserve="all" />
+    <type fullname="BotBrainConfigAsset" preserve="all" />
+    <type fullname="BotMoveFollowPathAsset" preserve="all" />
+    <type fullname="BrakeAtJumpPointAsset" preserve="all" />
+    <type fullname="BTCooldownAsset" preserve="all" />
+    <type fullname="BTRootAsset" preserve="all" />
+    <type fullname="BTSelectorAsset" preserve="all" />
+    <type fullname="BTSequenceAsset" preserve="all" />
+    <type fullname="CaptureTheFlagGameParameterAsset" preserve="all" />
+    <type fullname="CharacterConfigAsset" preserve="all" />
+    <type fullname="CheckAliveAsset" preserve="all" />
+    <type fullname="CheckCanJumpAsset" preserve="all" />
+    <type fullname="CheckCharacterMoveStateAsset" preserve="all" />
+    <type fullname="CheckDeathLockAsset" preserve="all" />
+    <type fullname="CheckGameStartDelayAsset" preserve="all" />
+    <type fullname="CheckHaveTargetTileAsset" preserve="all" />
+    <type fullname="CheckInJumpPointAsset" preserve="all" />
+    <type fullname="CheckLazerDistanceToJumpAsset" preserve="all" />
+    <type fullname="CheckPointPassAsset" preserve="all" />
+    <type fullname="CheckQualifiedAsset" preserve="all" />
+    <type fullname="CheckReachDestinationToUpdateAsset" preserve="all" />
+    <type fullname="CheckRightChoosenWayAsset" preserve="all" />
+    <type fullname="CheckShakeTargetTileAsset" preserve="all" />
+    <type fullname="ChoosenWayAsset" preserve="all" />
+    <type fullname="ColliderParameterAsset" preserve="all" />
+    <type fullname="DetectEnemyBlockWayAsset" preserve="all" />
+    <type fullname="DetectObstacleBlockWayAsset" preserve="all" />
+    <type fullname="EntityComponentAreaComp" preserve="all" />
+    <type fullname="EntityComponentArrayRayCastQueryComp" preserve="all" />
+    <type fullname="EntityComponentAutoDestroyReachEndPath" preserve="all" />
+    <type fullname="EntityComponentAutoDestroyTimeOutComp" preserve="all" />
+    <type fullname="EntityComponentAutoRotateComp" preserve="all" />
+    <type fullname="EntityComponentBannerAnimAreaComp" preserve="all" />
+    <type fullname="EntityComponentBearEffectComp" preserve="all" />
+    <type fullname="EntityComponentBomb" preserve="all" />
+    <type fullname="EntityComponentBombCdComp" preserve="all" />
+    <type fullname="EntityComponentBombMarkColliderComp" preserve="all" />
+    <type fullname="EntityComponentBoolComp" preserve="all" />
+    <type fullname="EntityComponentBotCanJumpTarget" preserve="all" />
+    <type fullname="EntityComponentBotCheckPoint" preserve="all" />
+    <type fullname="EntityComponentBotControllerComp" preserve="all" />
+    <type fullname="EntityComponentBotCurrentTarget" preserve="all" />
+    <type fullname="EntityComponentBotDeathLock" preserve="all" />
+    <type fullname="EntityComponentBotDeathTarget" preserve="all" />
+    <type fullname="EntityComponentBotDecisionZone" preserve="all" />
+    <type fullname="EntityComponentBotLastJumpTarget" preserve="all" />
+    <type fullname="EntityComponentBotMovePathComp" preserve="all" />
+    <type fullname="EntityComponentBotObjectInfoComp" preserve="all" />
+    <type fullname="EntityComponentBotObstacleRacingDataComp" preserve="all" />
+    <type fullname="EntityComponentBotOutDeathTarget" preserve="all" />
+    <type fullname="EntityComponentBotRailZoneComp" preserve="all" />
+    <type fullname="EntityComponentBotRandomChooseWay" preserve="all" />
+    <type fullname="EntityComponentBotSensorComp" preserve="all" />
+    <type fullname="EntityComponentBotTarget" preserve="all" />
+    <type fullname="EntityComponentBotTilesFallDataComp" preserve="all" />
+    <type fullname="EntityComponentBotTrainInfo" preserve="all" />
+    <type fullname="EntityComponentBrakePoint" preserve="all" />
+    <type fullname="EntityComponentBubbleBulletInfoComp" preserve="all" />
+    <type fullname="EntityComponentBubbleTerrainComp" preserve="all" />
+    <type fullname="EntityComponentBulletComp" preserve="all" />
+    <type fullname="EntityComponentBulletInfoComp" preserve="all" />
+    <type fullname="EntityComponentCaptureTheFlagGameConfigRefComp" preserve="all" />
+    <type fullname="EntityComponentCharacterAutoPushComp" preserve="all" />
+    <type fullname="EntityComponentCharacterChangeStateEventComp" preserve="all" />
+    <type fullname="EntityComponentCharacterDeathHeightComp" preserve="all" />
+    <type fullname="EntityComponentCharacterEffectComp" preserve="all" />
+    <type fullname="EntityComponentCharacterEffectGreenRedComp" preserve="all" />
+    <type fullname="EntityComponentCharacterFatalityComp" preserve="all" />
+    <type fullname="EntityComponentCharacterGroundRotateComp" preserve="all" />
+    <type fullname="EntityComponentCharacterJumpComp" preserve="all" />
+    <type fullname="EntityComponentCharacterMovementComp" preserve="all" />
+    <type fullname="EntityComponentCharacterShootComp" preserve="all" />
+    <type fullname="EntityComponentCharacterSlideComp" preserve="all" />
+    <type fullname="EntityComponentCharacterStateComp" preserve="all" />
+    <type fullname="EntityComponentCheckPoint" preserve="all" />
+    <type fullname="EntityComponentCheckPointArea" preserve="all" />
+    <type fullname="EntityComponentCircleMovePath" preserve="all" />
+    <type fullname="EntityComponentCollectableComp" preserve="all" />
+    <type fullname="EntityComponentCollectStarColliderComp" preserve="all" />
+    <type fullname="EntityComponentCountDownTimerComp" preserve="all" />
+    <type fullname="EntityComponentDeathLockArea" preserve="all" />
+    <type fullname="EntityComponentDistanceGroundCheckingComp" preserve="all" />
+    <type fullname="EntityComponentEffectFallOffAreaComp" preserve="all" />
+    <type fullname="EntityComponentEffectFrictionComp" preserve="all" />
+    <type fullname="EntityComponentEffectOnCollisionComp" preserve="all" />
+    <type fullname="EntityComponentEffectOnDestroyComp" preserve="all" />
+    <type fullname="EntityComponentEffectOnPlayerComp" preserve="all" />
+    <type fullname="EntityComponentEffectSlashComp" preserve="all" />
+    <type fullname="EntityComponentEffectWhenMoveComp" preserve="all" />
+    <type fullname="EntityComponentEffectWhenSpawnEntityComp" preserve="all" />
+    <type fullname="EntityComponentFallOffAreaComp" preserve="all" />
+    <type fullname="EntityComponentFlagpoleComp" preserve="all" />
+    <type fullname="EntityComponentFPEntityAnimCurveListComp" preserve="all" />
+    <type fullname="EntityComponentFPTimeAnimCurveListComp" preserve="all" />
+    <type fullname="EntityComponentGameConfigRefComp" preserve="all" />
+    <type fullname="EntityComponentGamePhaseComp" preserve="all" />
+    <type fullname="EntityComponentGameStateComp" preserve="all" />
+    <type fullname="EntityComponentGameTimingComp" preserve="all" />
+    <type fullname="EntityComponentGhostDespawnArea" preserve="all" />
+    <type fullname="EntityComponentGhostSpawnArea" preserve="all" />
+    <type fullname="EntityComponentGreenLightRedLightManagerComp" preserve="all" />
+    <type fullname="EntityComponentGroundCorrectionComp" preserve="all" />
+    <type fullname="EntityComponentHotPotatoTargetListForBotComp" preserve="all" />
+    <type fullname="EntityComponentHPBotComp" preserve="all" />
+    <type fullname="EntityComponentHPDetectPlayerRangeComp" preserve="all" />
+    <type fullname="EntityComponentHpFxTimingParamComp" preserve="all" />
+    <type fullname="EntityComponentHPJumpPointComp" preserve="all" />
+    <type fullname="EntityComponentHPSpecificPathComp" preserve="all" />
+    <type fullname="EntityComponentHPStartingWayPointComp" preserve="all" />
+    <type fullname="EntityComponentHPUseNavMeshDetectComp" preserve="all" />
+    <type fullname="EntityComponentHPWayPointComp" preserve="all" />
+    <type fullname="EntityComponentImpulseEnviComp" preserve="all" />
+    <type fullname="EntityComponentInstanceFowardImpulseComp" preserve="all" />
+    <type fullname="EntityComponentJumpImpulseComp" preserve="all" />
+    <type fullname="EntityComponentKeepHeightOnGroundComp" preserve="all" />
+    <type fullname="EntityComponentKnockTypeDependOnForceConfigComp" preserve="all" />
+    <type fullname="EntityComponentLaser" preserve="all" />
+    <type fullname="EntityComponentLaserDanceGameLogic" preserve="all" />
+    <type fullname="EntityComponentLaserDanceJumpSound" preserve="all" />
+    <type fullname="EntityComponentLaserDancePlatform" preserve="all" />
+    <type fullname="EntityComponentLaserDanceSound" preserve="all" />
+    <type fullname="EntityComponentLDBotComp" preserve="all" />
+    <type fullname="EntityComponentLinearPath" preserve="all" />
+    <type fullname="EntityComponentListPlayerEliminatedTrackComp" preserve="all" />
+    <type fullname="EntityComponentLockRotationComp" preserve="all" />
+    <type fullname="EntityComponentMoveAlongComp" preserve="all" />
+    <type fullname="EntityComponentMoveObjectFollowPathComp" preserve="all" />
+    <type fullname="EntityComponentMoveSpeed" preserve="all" />
+    <type fullname="EntityComponentMustJumpArea" preserve="all" />
+    <type fullname="EntityComponentObstacleRacingGameLogicComp" preserve="all" />
+    <type fullname="EntityComponentOffMapCheckFlagComp" preserve="all" />
+    <type fullname="EntityComponentOnCharacterFXComp" preserve="all" />
+    <type fullname="EntityComponentOnFootTrackingComp" preserve="all" />
+    <type fullname="EntityComponentOverlapSphereQueryComp" preserve="all" />
+    <type fullname="EntityComponentPhysicsJoints3D" preserve="all" />
+    <type fullname="EntityComponentPlayerComp" preserve="all" />
+    <type fullname="EntityComponentPlayerCountComp" preserve="all" />
+    <type fullname="EntityComponentPlayerRotate" preserve="all" />
+    <type fullname="EntityComponentPlayerStun" preserve="all" />
+    <type fullname="EntityComponentPortalComp" preserve="all" />
+    <type fullname="EntityComponentPotionComp" preserve="all" />
+    <type fullname="EntityComponentPushBackBulletInfoComp" preserve="all" />
+    <type fullname="EntityComponentRandomComp" preserve="all" />
+    <type fullname="EntityComponentRandomMeshComp" preserve="all" />
+    <type fullname="EntityComponentRandomMoveSpeedComp" preserve="all" />
+    <type fullname="EntityComponentRandomRotateInConeDirectionComp" preserve="all" />
+    <type fullname="EntityComponentRandomRotationSpeedComp" preserve="all" />
+    <type fullname="EntityComponentRandomTimeDifficultyController" preserve="all" />
+    <type fullname="EntityComponentRespawnComp" preserve="all" />
+    <type fullname="EntityComponentRotationSpeedComp" preserve="all" />
+    <type fullname="EntityComponentRoundCountComp" preserve="all" />
+    <type fullname="EntityComponentRuntimePlayerDataComp" preserve="all" />
+    <type fullname="EntityComponentSendEventApplyForceToPlayer" preserve="all" />
+    <type fullname="EntityComponentSFXBearKickComp" preserve="all" />
+    <type fullname="EntityComponentSFXFollowImpulseEnviComp" preserve="all" />
+    <type fullname="EntityComponentSFXFollowSpringImpulseEnviComp" preserve="all" />
+    <type fullname="EntityComponentSFXHotPotatoOnCharacterComp" preserve="all" />
+    <type fullname="EntityComponentSFXWhenCollisionEnterComp" preserve="all" />
+    <type fullname="EntityComponentSFXWhenSpawnEntityComp" preserve="all" />
+    <type fullname="EntityComponentSoccerLegRandomShootComp" preserve="all" />
+    <type fullname="EntityComponentSpawnArea" preserve="all" />
+    <type fullname="EntityComponentSpawnBombPoints" preserve="all" />
+    <type fullname="EntityComponentSpawnBuffComp" preserve="all" />
+    <type fullname="EntityComponentSpawnEntityComp" preserve="all" />
+    <type fullname="EntityComponentSpawnLaserController" preserve="all" />
+    <type fullname="EntityComponentSpawnLaserPoint" preserve="all" />
+    <type fullname="EntityComponentSpawnPlayerAreaFlagComp" preserve="all" />
+    <type fullname="EntityComponentSpawnStarParamComp" preserve="all" />
+    <type fullname="EntityComponentSpawnStarRefComp" preserve="all" />
+    <type fullname="EntityComponentSpawnTeamAAreaFlagComp" preserve="all" />
+    <type fullname="EntityComponentSpawnTeamBAreaFlagComp" preserve="all" />
+    <type fullname="EntityComponentStarComp" preserve="all" />
+    <type fullname="EntityComponentStartSelectNextPointComp" preserve="all" />
+    <type fullname="EntityComponentStickykTerrainComp" preserve="all" />
+    <type fullname="EntityComponentTeamComp" preserve="all" />
+    <type fullname="EntityComponentTeamPointComp" preserve="all" />
+    <type fullname="EntityComponentTerrainPrefab" preserve="all" />
+    <type fullname="EntityComponentThrowEventOnCollisionEnterComp" preserve="all" />
+    <type fullname="EntityComponentTileCheckComp" preserve="all" />
+    <type fullname="EntityComponentTileFallAreaDataComp" preserve="all" />
+    <type fullname="EntityComponentTileFallComp" preserve="all" />
+    <type fullname="EntityComponentTileFallConfig" preserve="all" />
+    <type fullname="EntityComponentTileFallPlayerDataTracking" preserve="all" />
+    <type fullname="EntityComponentTileFallSilly" preserve="all" />
+    <type fullname="EntityComponentTileFallSoundComp" preserve="all" />
+    <type fullname="EntityComponentTilesFallBotComp" preserve="all" />
+    <type fullname="EntityComponentTimeForLaserDance" preserve="all" />
+    <type fullname="EntityComponentTimerComp" preserve="all" />
+    <type fullname="EntityComponentTrackHillAngleComp" preserve="all" />
+    <type fullname="EntityComponentTrainControllerComp" preserve="all" />
+    <type fullname="EntityComponentTutorialBannerComp" preserve="all" />
+    <type fullname="EntityComponentTutorialBotRoleComp" preserve="all" />
+    <type fullname="EntityComponentTutorialBotWaitAreaComp" preserve="all" />
+    <type fullname="EntityComponentTutorialRacingGameLogicComp" preserve="all" />
+    <type fullname="EntityComponentVictoryAreaComp" preserve="all" />
+    <type fullname="EntityComponentWallTerrainComp" preserve="all" />
+    <type fullname="EntityComponentWaterCannonComp" preserve="all" />
+    <type fullname="EntityComponentWayPointComp" preserve="all" />
+    <type fullname="EntityPrototype" preserve="all" />
+    <type fullname="EntityPrototypeAsset" preserve="all" />
+    <type fullname="EntityView" preserve="all" />
+    <type fullname="EntityViewAsset" preserve="all" />
+    <type fullname="EntityViewUpdater" preserve="all" />
+    <type fullname="FindCurrentTargetAsset" preserve="all" />
+    <type fullname="FindDeathPositionAsset" preserve="all" />
+    <type fullname="FindFurthestPositionCanGoAsset" preserve="all" />
+    <type fullname="FindOutDeathPositionAsset" preserve="all" />
+    <type fullname="FindRandomPosAroundAsset" preserve="all" />
+    <type fullname="FindSafeAreaToReachAsset" preserve="all" />
+    <type fullname="FindVictoryLineGreenRedAsset" preserve="all" />
+    <type fullname="GameParameterAsset" preserve="all" />
+    <type fullname="GetClosestLazerDetectedAsset" preserve="all" />
+    <type fullname="GetClosestPlayerSensoredAsset" preserve="all" />
+    <type fullname="GreenLightRedLightConfigAsset" preserve="all" />
+    <type fullname="HasBombAsset" preserve="all" />
+    <type fullname="HPCheckGameStartAsset" preserve="all" />
+    <type fullname="HPCheckJumpAsset" preserve="all" />
+    <type fullname="HPCheckMoveForBomberAsset" preserve="all" />
+    <type fullname="HPCheckPathMoveAsset" preserve="all" />
+    <type fullname="HPCheckUseNavMeshAsset" preserve="all" />
+    <type fullname="HPCheckUsePathAsset" preserve="all" />
+    <type fullname="HPCheckUseSubDestinationAsset" preserve="all" />
+    <type fullname="HPDetectEnemyAsset" preserve="all" />
+    <type fullname="HPDetectStarAsset" preserve="all" />
+    <type fullname="HPGetDestinationAsset" preserve="all" />
+    <type fullname="HPGetSubDestinationAsset" preserve="all" />
+    <type fullname="HPOnHighGroundAsset" preserve="all" />
+    <type fullname="HPSetUseNavMeshAsset" preserve="all" />
+    <type fullname="HPUpdateTargetForBotAsset" preserve="all" />
+    <type fullname="IsGreenLightAsset" preserve="all" />
+    <type fullname="IsRedLightAsset" preserve="all" />
+    <type fullname="JumpAsset" preserve="all" />
+    <type fullname="JumpSlideOnJumpPointAsset" preserve="all" />
+    <type fullname="LaserSpawnDataConfigAsset" preserve="all" />
+    <type fullname="LDCheckJumpAsset" preserve="all" />
+    <type fullname="MakeDecisionMoveToRandomTileOrWaitAsset" preserve="all" />
+    <type fullname="MapAsset" preserve="all" />
+    <type fullname="MapData" preserve="all" />
+    <type fullname="MapNavMeshUnity" preserve="all" />
+    <type fullname="MoveToEntityAsset" preserve="all" />
+    <type fullname="MoveToPointWithJumpAsset" preserve="all" />
+    <type fullname="MoveToPositionAsset" preserve="all" />
+    <type fullname="MoveToPositionDogdeObstacleAsset" preserve="all" />
+    <type fullname="MoveToRandomTileAsset" preserve="all" />
+    <type fullname="MoveToTileAsset" preserve="all" />
+    <type fullname="NavMeshAgentConfigAsset" preserve="all" />
+    <type fullname="NavMeshAsset" preserve="all" />
+    <type fullname="ORMakeDecisionWaitPlayerAsset" preserve="all" />
+    <type fullname="PhysicsMaterialAsset" preserve="all" />
+    <type fullname="ProblyJumpToPositionAsset" preserve="all" />
+    <type fullname="QuantumMemoryStats" preserve="all" />
+    <type fullname="QuantumRunnerLocalDebug" preserve="all" />
+    <type fullname="QuantumStaticBoxCollider3D" preserve="all" />
+    <type fullname="QuantumStaticMeshCollider3D" preserve="all" />
+    <type fullname="QuantumStaticSphereCollider3D" preserve="all" />
+    <type fullname="QuantumStats" preserve="all" />
+    <type fullname="ReachPassPointAsset" preserve="all" />
+    <type fullname="ReachTheFinishLineAsset" preserve="all" />
+    <type fullname="ReturnSuccessWaitRandTimeAsset" preserve="all" />
+    <type fullname="RuntimeConfigContainer" preserve="all" />
+    <type fullname="SafeAreaAsset" preserve="all" />
+    <type fullname="SeeRedLightComingAsset" preserve="all" />
+    <type fullname="SeeRedLightFakeAsset" preserve="all" />
+    <type fullname="SetPosAvoidObjectHaveInfoAsset" preserve="all" />
+    <type fullname="SetPosAvoidPlayerAsset" preserve="all" />
+    <type fullname="ShouldStopMoveAsset" preserve="all" />
+    <type fullname="ShouldWaitShakeTileAsset" preserve="all" />
+    <type fullname="SkinDataConfigAsset" preserve="all" />
+    <type fullname="SlideDataConfigAsset" preserve="all" />
+    <type fullname="SpawnDataAsset" preserve="all" />
+    <type fullname="SpawnStarSurroundingParameterAsset" preserve="all" />
+    <type fullname="StatusLeafAsset" preserve="all" />
+    <type fullname="StopMoveAsset" preserve="all" />
+    <type fullname="SystemConfigAsset" preserve="all" />
+    <type fullname="TileFallSillyBehaviorAsset" preserve="all" />
+    <type fullname="UsePredictionAsset" preserve="all" />
+    <type fullname="WaitLeafAsset" preserve="all" />
+    <type fullname="WaitLeafChangeDurationAsset" preserve="all" />
+    <type fullname="EntityPrototype/InitialNavMeshTargetInfo" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/NavMeshAvoidanceAgentInfo" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/NavMeshPathfinderInfo" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/NavMeshSpec" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/NavMeshSteeringAgentInfo" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/OverrideFP" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/PhysicsBodyGeneric" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/PhysicsColliderGeneric" preserve="nothing" serialized="true" />
+    <type fullname="EntityPrototype/Transform2DVerticalInfo" preserve="nothing" serialized="true" />
+    <type fullname="EntityView/EntityUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BotSensorComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.CharacterEffectGreenRedComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.CollisionTracking_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.OnFootTrackingComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.RespawnComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="QuantumStaticColliderSettings" preserve="nothing" serialized="true" />
+    <type fullname="MapNavMesh/FindClosestTriangleCalculation" preserve="nothing" serialized="true" />
+    <type fullname="MapNavMesh/ImportSettings" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.GameStateComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="QuantumMapDataBakeFlags" preserve="nothing" serialized="true" />
+    <type fullname="QuantumRunnerLocalDebug/DynamicAssetDBSettings" preserve="nothing" serialized="true" />
+    <type fullname="QuantumRunnerLocalDebug/DynamicAssetDBSettings/InitialDynamicAssetsRequestedUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HPBotComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HPDetectPlayerRangeComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HPJumpPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HPWayPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.PathToDestination_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HPSpecificPathComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.HotPotatoTargetListForBotComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.LinearPath_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.StartSelectNextPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.WayPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.SpawnBombPoints_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BubbleTerrainComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.CharacterAutoPushComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.CollectableComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.SpawnBuffComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.StickykTerrainComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.WaterCannonComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BotTilesFallDataComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.TileCheckComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.TilesFallBotComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.LDBotComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.Joint3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.PhysicsJoints3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.FlagpoleComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.PortalComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.CircleMovePath_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.EffectFrictionComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.EffectOnPlayerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.EffectWhenMoveComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.MoveAlongComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.TrainControllerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.TrainStartPointConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.GhostSpawnArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.FPEntityAnimCurveListComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.FPEntityAnimCurve_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BotDecisionZone_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BotRailZoneComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.MustJumpArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Unity.BotObstacleRacingDataComp_Prototype" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[UnityEngine.AnimationClip]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[UnityEngine.GameObject]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[UnityEngine.Sprite]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetLabelReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Postprocessing.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.PostProcessing.Bloom" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessLayer" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessVolume" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.BoolParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.ColorParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.FloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.TextureParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.FastApproximateAntialiasing" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.Fog" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.HistogramMonitor" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.LightMeterMonitor" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer/OverlaySettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.SubpixelMorphologicalAntialiasing" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.TemporalAntialiasing" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.VectorscopeMonitor" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.WaveformMonitor" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.ComputeShader" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.FlareLayer" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SoundConfigWithSource]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[ChangeMinionDataEventArg]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Transform]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Vector2]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[GameFeatures.Common.MinionData.MinionDataModel]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[GameFeatures.Common.MinionData.HeroRarity]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[GameFeatures.Common.MinionData.SkinRarity]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[LobbyCosmeticDataItem]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[ChangeCosmeticArgs]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[CosmeticAddInType]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[CosmeticRarity]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[IngameMessageConfig]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[Quantum.EventOnPlayerWin]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.CharacterController" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.PhysicMaterial" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Selectable" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityScreenNavigator, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityScreenNavigator.Runtime.Core.Modal.ModalBackdrop" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Modal.ModalContainer" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Screen.ScreenContainer" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Shared.SimpleTransitionAnimationObject" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Sheet.SheetContainer" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Interactivity.Views.AlertDialogWindow" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Interactivity.Views.ToastView" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Interactivity.Views.TooltipView" preserve="all" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Modal.ModalBackdropTransitionAnimationContainer" preserve="nothing" serialized="true" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Shared.Animation.TransitionAnimation" preserve="nothing" serialized="true" />
+    <type fullname="UnityScreenNavigator.Runtime.Interactivity.Animation.InteractivityTransitionAnimationContainer" preserve="nothing" serialized="true" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Modal.ModalTransitionAnimationContainer" preserve="nothing" serialized="true" />
+    <type fullname="UnityScreenNavigator.Runtime.Core.Screen.ScreenTransitionAnimationContainer" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="OSA.Core">
+    <type fullname="Com.TheFallenGames.OSA.Core.BaseParams/Effects" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.BaseParams/NavigationParams" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.BaseParams/Optimization" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Animations.AnimationCancelling" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Animations.AnimationFunctionType" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Animations.AnimationParams" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Animations.SmoothScrollCancellingEvents" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Animations.UserAnimationsCancellingEvents" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Gallery.GalleryAnimation/Vector3Space" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Gallery.GalleryEffectParams" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Gallery.GalleryRotation" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.Core.Data.Gallery.GalleryScale" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.CustomAdapters.GridView.GridParams" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.CustomAdapters.GridView.GridParams/GridConfig" preserve="nothing" serialized="true" />
+    <type fullname="Com.TheFallenGames.OSA.CustomParams.BaseParamsWithPrefab" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="PhotonDeterministic">
+    <type fullname="Photon.Deterministic.FP" preserve="nothing" serialized="true" />
+    <type fullname="Photon.Deterministic.FPQuaternion" preserve="nothing" serialized="true" />
+    <type fullname="Photon.Deterministic.FPVector2" preserve="nothing" serialized="true" />
+    <type fullname="Photon.Deterministic.FPVector3" preserve="nothing" serialized="true" />
+    <type fullname="Photon.Deterministic.NullableFP" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="quantum.code">
+    <type fullname="Quantum.AIBlackboard" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIBlackboardEntry" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIBlackboardInitializer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIBlackboardInitializer/AIBlackboardInitialValue" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIBlackboardInitializer/AIBlackboardInitialValueEntry" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIBlackboardValueKey" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIConfig/KeyValuePair" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIConfig/Value" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIParamFP" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIParamFPVector2" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AIParamInt" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AnimationCurveParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefAIBlackboard" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefAIBlackboardInitializer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefAIConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefAIFunction" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefAnimationCurveParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefBotBrainConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefBTNode" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefBTRoot" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefCaptureTheFlagGameParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefCharacterConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefColliderParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefGameParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefGreenLightRedLightConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefLaserSpawnDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefSimulationConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefSkinDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefSlideDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefSpawnStarSurroundingParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefSystemConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BotBrainConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BotBrainLevel" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BotMoveFollowPath" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BrakeAtJumpPoint" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BTCooldown" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BTDataIndex" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BTRoot" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BTSelector" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BTSequence" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CaptureTheFlagGameParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CharacterConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckAlive" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckCanJump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckCharacterMoveState" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckDeathLock" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckGameStart" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckGameStartDelay" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckHaveTargetTile" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckInJumpPoint" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckLazerDistanceToJump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckPointPass" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckQualified" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckReachDestinationToUpdate" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckRightChoosenWay" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CheckShakeTargetTile" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ChoosenWay" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ColliderParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.DetectEnemyBlockWay" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.DetectObstacleBlockWay" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindCurrentTarget" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindDeathPosition" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindFurthestPositionCanGo" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindOutDeathPosition" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindRandomPosAround" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindSafeAreaToReach" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FindVictoryLineGreenRed" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.GameParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.GetClosestLazerDetected" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.GetClosestPlayerSensored" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.GreenLightRedLightConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HasBomb" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckGameStart" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckJump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckMoveForBomber" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckPathMove" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckUseNavMesh" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckUsePath" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPCheckUseSubDestination" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPDetectEnemy" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPDetectStar" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPGetDestination" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPGetSubDestination" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPOnHighGround" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPSetUseNavMesh" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.HPUpdateTargetForBot" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.InstantReplaySettings" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.IsGreenLight" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.IsRedLight" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Jump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.JumpSlideOnJumpPoint" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.LaserSpawnAttribute" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.LaserSpawnDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.LDCheckJump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MakeDecisionMoveToRandomTileOrWait" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToEntity" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToPointWithJump" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToPosition" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToPositionDogdeObstacle" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToRandomTile" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MoveToTile" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ORMakeDecisionWaitPlayer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PhaseDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PlayerData" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ProblyJumpToPosition" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AdjustedValueCase_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ArrayRayCastQueryComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AutoDestroyReachEndPath_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AutoDestroyTimeOutComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AutoRotateComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.AvoidType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BannerAnimAreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BearEffectComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Bomb_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BombCdComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BombMarkColliderComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BoolComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotCanJumpTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotCheckPoint_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotControllerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotCurrentTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotDeathLock_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotDeathTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotDecisionZone_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotLastJumpTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotMovePathComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotObjectInfoComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotObstacleRacingDataComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotOutDeathTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotRailZoneComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotRandomChooseWay_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotTarget_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotTilesFallDataComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BotTrainInfo_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BrakePoint_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BubbleBulletInfoComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BulletComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BulletInfoComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.BulletType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CaptureTheFlagGameConfigRefComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CapturingInfo_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterChangeStateEventComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterDeathHeightComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterEffectComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterFatalityComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterGroundRotateComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterJumpComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterMovementComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterShootComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterSlideComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CharacterStateComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CheckPoint_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CheckPointArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CircleMovePath_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CollectableType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CollectStarColliderComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ConfigImpulse_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.CountDownTimerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.DeathLockArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.DelayJumpComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Direction_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.DistanceGroundCheckingComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Effect_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectCollisionConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectCollisionType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectFallOffAreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectOnCollisionComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectOnDestroyComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectSlashComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectWhenSpawnEntityComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.EffectWhenSpawnEntityConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FallOffAreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FlagpoleComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FlagpoleStage_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FlatEntityPrototypeContainer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FPEntityAnimCurve_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FPEntityAnimCurveListComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FPTimeAnimCurve_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.FPTimeAnimCurveListComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GameConfigRefComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GameDifficulty_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GamePhase_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GamePhaseComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GameStateComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GameTimingComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GhostDespawnArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GhostSpawnArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GreenLightRedLightManagerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GreenRedConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GreenRedPhaseInfo_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.GroundCorrectionComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HotPotatoTargetListForBotComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPDetectPlayerRangeComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HpFxTimingParamComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPJumpPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPSpecificPathComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPStartingWayPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPUseNavMeshDetectComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.HPWayPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ImpulseEnviComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ImpulseType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.InputButtonType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.InstanceFowardImpulseComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.JumpImpulseComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.KeepHeightOnGroundComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Knock_Type_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.KnockTypeDependOnForceConfigComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Laser_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LaserDanceGameLogic_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LaserDanceJumpSound_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LaserDancePlatform_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LaserDanceSound_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LightType_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LinearPath_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ListPlayerEliminatedTrackComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.LockRotationComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.MoveAlongComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.MoveObjectFollowPathComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.MoveSpeed_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.MoveSpeedConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.MustJumpArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ObstacleRacingGameLogicComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.OffMapCheckFlagComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.OnCharacterFXComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.OverlapSphereQueryComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PathToDestination_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PlayerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PlayerCountComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PlayerRotate_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PlayerStun_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PortalComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PotionComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PushBackBulletInfoComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomMeshComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomMoveSpeedComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomRange_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomRotateInConeDirectionComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomRotationSpeedComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomRotationSpeedConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomTimeDifficultyConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomTimeDifficultyController_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RandomVector3Range_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RateInfo_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RayCastParam_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RotationSpeedComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RoundCountComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.RuntimePlayerDataComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SendEventApplyForceToPlayer_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXBearKickComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXCollisionConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXFollowImpulseEnviComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXFollowSpringImpulseEnviComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXHotPotatoOnCharacterComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXWhenCollisionEnterComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SFXWhenSpawnEntityComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SoccerLegRandomShootComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnArea_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnBombPoints_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnEntityComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnLaserController_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnLaserPoint_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnPlayerAreaFlagComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnPosConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnStarParamComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnStarRefComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnTeamAAreaFlagComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.SpawnTeamBAreaFlagComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.StagingInfo_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.StarComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.StarEffect_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.StarEffectCondition_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.StartSelectNextPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Team_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TeamComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TeamPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TerrainPrefab_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.ThrowEventOnCollisionEnterComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallAreaDataComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallMode_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallPlayerDataTracking_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallSilly_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TileFallSoundComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TimeForLaserDance_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TimerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TrackHillAngleComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TrainControllerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TrainStartPointConfig_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TutorialBannerComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TutorialBotRoleComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TutorialBotWaitAreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.TutorialRacingGameLogicComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.VictoryAreaComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.WallTerrainComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.WayPointComp_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.RandomRange" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.RateInfo" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ReachPassPoint" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ReachTheFinishLine" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ReturnSuccessWaitRandTime" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.RuntimeConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.RuntimePlayer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SafeArea" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SeeRedLightComing" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SeeRedLightFake" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SetBoolBB" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SetFPVector2BB" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SetPosAvoidObjectHaveInfo" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SetPosAvoidPlayer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ShouldStopMove" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.ShouldWaitShakeTile" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SkinDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SlideDataConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SpawnData" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SpawnStarSurroundingParameter" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.StatusLeaf" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.StopMove" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.SystemConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.TileFallSillyBehavior" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.UsePrediction" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.WaitLeaf" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.WaitLeafChangeDuration" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="quantum.core">
+    <type fullname="Quantum.AssetGuid" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetObjectIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRef" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefBinaryData" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefEntityPrototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefEntityView" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefMap" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefNavMesh" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefNavMeshAgentConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefPhysicsMaterial" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.AssetRefPolygonCollider" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.BinaryData" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.CallbackFlags_Wrapper" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.EntityPrototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.EntityPrototypeContainer" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.EntityView" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FPAnimationCurve" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.FPAnimationCurve/Keyframe" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.LayerMask" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Map" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MapEntityId" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.MapStaticCollider3D" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Navigation/AvoidanceQuality" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Navigation/AvoidanceType" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Navigation/MovementType" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Navigation/PathQuality" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Navigation/VerticalPositioningType" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.NavMesh" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.NavMeshAgentConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PhysicsBody3D/ConfigFlagsWrapper" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PhysicsCombineFunction" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PhysicsMaterial" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.PlayerRef" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Joint3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PhysicsBody3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PhysicsCallbacks3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PhysicsCollider3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.PhysicsJoints3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Transform2D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Prototypes.Transform3D_Prototype" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.QBoolean" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.RotationFreezeFlags_Wrapper" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Shape2DConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Shape3DConfig" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.Shape3DConfig/CompoundShapeData3D" preserve="nothing" serialized="true" />
+    <type fullname="Quantum.StaticColliderData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Sirenix.Serialization">
+    <type fullname="Sirenix.Serialization.SerializationData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
